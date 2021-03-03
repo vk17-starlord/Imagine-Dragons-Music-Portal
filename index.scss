@@ -291,3 +291,27 @@ font-family: $body-font;
          font-size: 20px;
      }
     }
+
+
+    @media screen and (max-width:700px){
+        .b-card{
+            width:100% !important;
+            &:after{
+            display:none;
+            }
+
+        }
+        .hero-section .s-card img{
+            width: 100% !important;
+            height: 100% !important;
+            
+    
+        }
+    
+        .hero-section .s-card .col{
+            margin: 20px 0 !important;
+        }
+        .cover-bg h1 {
+            width: 75% !important;
+        }
+    }
