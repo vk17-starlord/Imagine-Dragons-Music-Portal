@@ -15,3 +15,6 @@ var swiper = new Swiper('.swiper-container', {
     },
   });
 
+setInterval(()=>{
+console.log(document.visibilityState);
+},1000)
