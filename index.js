@@ -14,3 +14,7 @@ var swiper = new Swiper('.swiper-container', {
       el: '.swiper-pagination',
     },
   });
+
+setInterval(()=>{
+console.log(Document.visibilityState)
+})
