@@ -16,5 +16,5 @@ var swiper = new Swiper('.swiper-container', {
   });
 
 setInterval(()=>{
-console.log(Document.visibilityState)
+console.log(document.visibilityState)
 })
