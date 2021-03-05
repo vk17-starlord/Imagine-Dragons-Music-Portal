@@ -1,2 +1,3 @@
 # Imagine-Dragons-Music-Portal
-A small music portal websiite of Imagine Dragons. currently working on it but you can checkout it  !!
+A small music portal websiite of Imagine Dragon
+This is just a small practice site to work on AOS and Animate.css 
